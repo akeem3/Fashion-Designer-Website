@@ -1,5 +1,4 @@
 
-
 export default function page() {
   return (
     <section className="py-24">
@@ -9,3 +8,4 @@ export default function page() {
     </section>
   )
 }
+ 
